@@ -1,4 +1,4 @@
-![pytorch-logo-dark](https://github.com/user-attachments/assets/3eb23528-872c-45c8-925a-ed656e757278)
+#![pytorch-logo-dark](https://github.com/user-attachments/assets/3eb23528-872c-45c8-925a-ed656e757278)
 
 
 # Advanced CNN for CIFAR-10 Classification
