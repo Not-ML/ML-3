@@ -1,7 +1,8 @@
-# ![pytorch-logo-dark](https://github.com/user-attachments/assets/3eb23528-872c-45c8-925a-ed656e757278)
+## ![pytorch-logo-dark](https://github.com/user-attachments/assets/3eb23528-872c-45c8-925a-ed656e757278)
 
 
 # Advanced CNN for CIFAR-10 Classification
+
 
 This project implements an advanced Convolutional Neural Network (CNN) in PyTorch to classify images from the CIFAR-10 dataset into 10 categories: `airplane`, `automobile`, `bird`, `cat`, `deer`, `dog`, `frog`, `horse`, `ship`, and `truck`.
 
